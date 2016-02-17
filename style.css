@@ -1,0 +1,45 @@
+.description {color: white; font: 14px/1.5 "Times New Roman"; weight: bold;}
+h1 {text-align: center;
+    color: orange;
+  padding: 10px;}
+  .concept {color: black; font: 25 px/1.5 "Times New Roman" weight: bold;}
+.lesson {
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+} 
+h2 {margin: 10px;font: 24px/1.5 "Times New Roman"}
+.concept {
+    background-color: orange;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+.concept-title {
+    font: 24px/1.5 "Times New Roman" ;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: red green blue yellow;
+    margin: 10px 50px;
+}
+
+.concept-description {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+h3 {margin: 10px;font: 24px/1.5 "Times New Roman"}
+h4 {margin: 10px;font: 24px/1.5 "Times New Roman"}
+h5 {margin: 10px;font: 24px/1.5 "Times New Roman"}
+h6 {margin: 10px;font: 24px/1.5 "Times New Roman"}
